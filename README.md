@@ -1,1 +1,1 @@
-# number-of-islands-problems-on-graphs
+# problems on graphs
